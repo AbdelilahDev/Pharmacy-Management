@@ -1,0 +1,12 @@
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\bin\Debug\PharmacyDataAccessLayer.dll
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\bin\Debug\PharmacyDataAccessLayer.pdb
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.csproj.AssemblyReference.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.dll
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.pdb
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\bin\Debug\PharmacyDataAccessLayer.dll
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\bin\Debug\PharmacyDataAccessLayer.pdb
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.csproj.AssemblyReference.cache
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.dll
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.pdb
