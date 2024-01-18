@@ -1,0 +1,12 @@
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.Adminstrator.resources
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.FormLogin.resources

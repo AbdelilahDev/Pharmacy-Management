@@ -1,0 +1,36 @@
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\PharmacyBusinessLayers.dll
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\PharmacyDataAccessLayer.dll
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\PharmacyBusinessLayers.pdb
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\PharmacyDataAccessLayer.pdb
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.AssemblyReference.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.Adminstrator.resources
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.FormLogin.resources
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.GenerateResource.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.CoreCompileInputs.cache
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.CopyComplete
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+E:\Desktop\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.Pharmacist.resources
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\PharmacyBusinessLayers.dll
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\PharmacyDataAccessLayer.dll
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\PharmacyBusinessLayers.pdb
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\bin\Debug\PharmacyDataAccessLayer.pdb
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.AssemblyReference.cache
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.Adminstrator.resources
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.FormLogin.resources
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.Pharmacist.resources
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.GenerateResource.cache
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.CoreCompileInputs.cache
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Presontation Layer.csproj.CopyComplete
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+E:\Desktop\Programming\C#TAndProjects\Projects\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
